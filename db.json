@@ -13,6 +13,20 @@
       "tech": "Sara Wilson",
       "date": "2021-05-03T15:22:12.521Z",
       "id": 2
+    },
+    {
+      "message": "Changed network card on server 666",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-05-04T15:56:02.927Z",
+      "id": 3
+    },
+    {
+      "message": "my new technician's Log",
+      "attention": false,
+      "tech": "Greg  Harris",
+      "date": "2021-05-04T16:05:38.053Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -20,21 +34,6 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "firstName": "Jen",
-      "lastName": "Williams",
-      "id": 4
     }
   ]
 }
