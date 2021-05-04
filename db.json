@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "network card in server 007",
+      "id": 1,
+      "message": "network card in server 888",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2021-05-03T15:21:25.432Z",
-      "id": 1
+      "date": "2021-05-04T09:24:16.787Z"
     },
     {
       "message": "Hard drive failed in 002",
@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2021-05-03T15:22:12.521Z",
       "id": 2
-    },
-    {
-      "message": "ddddddddddddddddddddddddddddddd",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-05-03T15:22:21.088Z",
-      "id": 3
     }
   ],
   "techs": [
